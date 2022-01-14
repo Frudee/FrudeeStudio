@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrudee_web_studio=self.webpackChunkfrudee_web_studio||[]).push([[184],{6094:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=n(5444),l=n(7294),r=n(6872),a=function(){return l.createElement(r.Z,null,l.createElement("div",{className:"thank-you-module--thank-you--3GCMY"},l.createElement("h1",null,"Спасибо за обращение!"),l.createElement("p",null,"Мы свяжемся с вами в ближайшее время."),l.createElement(u.rU,{to:"/"},"На главную")))}}}]);
+//# sourceMappingURL=component---src-pages-thank-you-js-47721b61fd4f6e2ee350.js.map
